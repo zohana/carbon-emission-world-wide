@@ -1,6 +1,6 @@
 # Carbon Emission World Wide [React]
 
-- Carbon Emission World Wide project is a visual representation of carbon emission data world wide; on the world map; for the selected year from the range 1990 - 2019.
+- Carbon Emission World Wide project is a visual representation of carbon emission data world wide; on the world map; for the selected year from the range between 1990 - 2019.
 
 - The library used to render the map is react-simple-maps.
 
